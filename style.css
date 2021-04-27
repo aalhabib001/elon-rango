@@ -384,7 +384,7 @@ ul{
 .roadmap .roadmap_area{
     width:80%;
     margin: 50px auto;
-    height: 450px;
+    height: 650px;
     overflow: auto;
 }
 .roadmap .roadmap_area ul::before{
